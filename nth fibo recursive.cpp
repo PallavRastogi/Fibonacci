@@ -1,11 +1,7 @@
 #include <iostream>
-
 using namespace std;
-
 int fibo(int ctrl){
-
     if(ctrl==0){
-
         return 0;
 
     }
@@ -43,17 +39,9 @@ int main(){
         kwd = "st";
 
         break;
-
-        
-
         case 2:
-
         kwd = "nd";
-
         break;
-
-        
-
         case 3:
 
         kwd = "rd";
