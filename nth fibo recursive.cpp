@@ -9,6 +9,7 @@ int fibo(int ctrl){
     else if(ctrl == 1){
 
         return 1;
+        jsjaa
 
     }
 
@@ -17,7 +18,7 @@ int fibo(int ctrl){
         return (fibo(ctrl-1) + fibo(ctrl-2));
 
     }
-
+hhshs
     
 
 }
@@ -49,7 +50,7 @@ int main(){
         break;
 
         
-
+jssjjs
         default:
 
         kwd = "th";
